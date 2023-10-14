@@ -16,7 +16,8 @@ To enable the web UI after installing `jellyfin-web`, make sure to remove the `-
 
 ## Arch Linux
 
-Jellyfin can be found in the AUR as [`jellyfin`](https://aur.archlinux.org/packages/jellyfin/), [`jellyfin-bin`](https://aur.archlinux.org/packages/jellyfin-bin/) and [`jellyfin-git`](https://aur.archlinux.org/packages/jellyfin-git/).
+Jellyfin can be found in the `extra` repository as [`jellyfin-server`](https://archlinux.org/packages/extra/x86_64/jellyfin-server/) and
+[`jellyfin-web`](https://archlinux.org/packages/extra/x86_64/jellyfin-web/). It is also available in the AUR as [`jellyfin-git`](https://aur.archlinux.org/packages/jellyfin-git/) if you prefer to build from source.
 
 ## Fedora
 
